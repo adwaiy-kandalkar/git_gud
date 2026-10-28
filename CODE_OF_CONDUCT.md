@@ -37,7 +37,7 @@ If you've been banging your head against a puzzle in the `arena` for 20 minutes:
 4. Come back with fresh eyes (90% of the time, the typo jumps right out at you).
 
 ### Rule 5: Keep the Community Clean & Safe
-- No harassment, hate speech, trolling, or creepiness of any kind
+-  harassment, hate speech, trolling, or creepiness of any kind
 - Keep the vibes respectful and collaborative. If someone is genuinely crossing lines or being toxic, let the mentors/organizers know and we'll boot them into `/dev/null`.
 
 ---
